@@ -99,3 +99,5 @@ pemweb-tugas1-[NIM]/
 │   └── icons/
 │
 └── README.md
+ hasil nilai LightHouse:
+ <img width="568" height="617" alt="image" src="https://github.com/user-attachments/assets/0a19b75d-718f-475b-bee6-5fb04d45aad2" />
